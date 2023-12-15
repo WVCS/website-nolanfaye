@@ -1,3 +1,40 @@
-
-
-
+body{
+  background-color: #DFFFFD
+}
+h1{
+  letter-spacing: 2px;
+  color: pink;
+  font-size: 400%;
+  text-decoration: underline;
+  text-decoration-color: yellow;
+  font-family: "Cambria";
+}
+p{
+  font-size: 200%;
+  color: #007A74;
+}
+img{
+  width: 500px;
+  border-style: solid;
+  border-color: #DE3163;
+}
+iframe{
+  
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 20px;
+  color: lemon;
+  text-decoration: none;
+  font-family: "Cambria";
+}
+li a:hover{
+  background-color: #FE6F5E;
+}
