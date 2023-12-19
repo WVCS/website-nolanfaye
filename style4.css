@@ -1,1 +1,41 @@
-
+body{
+  background-color: #2072AF
+}
+h1{
+  letter-spacing: 2px;
+  color: pink;
+  font-size: 400%;
+  text-decoration: underline;
+  text-decoration-color: yellow;
+  font-family: "Cambria";
+}
+p{
+  font-size: 200%;
+  color: #FFFFFF;
+}
+img{
+  width: 500px;
+  border-style: solid;
+  border-color: #6CB4EE;
+}
+iframe{
+  color: #85B09A;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  position: fixed;
+  color: #85B09A;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 20px;
+  color: #85B09A;
+  text-decoration: none;
+  font-family: "Cambria";
+}
+li a:hover{
+  background-color: #FE6F5E;
+}
