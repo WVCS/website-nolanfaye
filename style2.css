@@ -1,9 +1,9 @@
 body{
-  background-color: #DFFFFD
+  background-color: #72A0C1
 }
 h1{
   letter-spacing: 2px;
-  color: pink;
+  color: #E0FFFF;
   font-size: 400%;
   text-decoration: underline;
   text-decoration-color: yellow;
@@ -11,7 +11,7 @@ h1{
 }
 p{
   font-size: 200%;
-  color: #007A74;
+  color: #15F4EE;
 }
 img{
   width: 500px;
@@ -31,7 +31,7 @@ li{
 }
 li a{
   padding: 20px;
-  color: lemon;
+  color: #F0FFFF;
   text-decoration: none;
   font-family: "Cambria";
 }
